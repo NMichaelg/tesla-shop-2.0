@@ -237,7 +237,3 @@ See [`LICENSE`](LICENSE) for the complete license text.
 **Michael Ng**
 
 GitHub: [NMichaelg](https://github.com/NMichaelg)
-
-## Repository
-
-[View the project on GitHub](https://github.com/NMichaelg/final_web_lab)
